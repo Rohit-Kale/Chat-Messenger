@@ -1,5 +1,7 @@
 # Chat-Messenger
 
-## Name of the Project : Chat Messenger
+#### Name of the Project : Chat Messenger
 
-## Technology Used : Java
+#### Technology Used : Java
+
+##### BufferedReader Class
